@@ -1,0 +1,23 @@
+*{
+    font-family: "Poppins", sans-serif;
+}
+.container{
+    margin-bottom: 100px;
+}
+.orange{
+    background-color: #fdeae9;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price-info{
+    color: #FF136F;
+}
+.btn{
+    padding: 10px 20px;
+    background-color: #FF136F;
+    color: white;
+    font-size: 18px;
+}
