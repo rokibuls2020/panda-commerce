@@ -21,3 +21,18 @@
     color: white;
     font-size: 18px;
 }
+.cat1,.cat2, .cat3{    
+    margin: 10px;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+
+.cat1{
+    background-image: linear-gradient(to right, orange, yellow);
+}
+.cat2{
+    background-image: linear-gradient(to right, crimson, pink);
+}
+.cat3{
+    background-image: linear-gradient(to right, blue, lightblue);
+}
