@@ -20,6 +20,12 @@
     background-color: #FF136F;
     color: white;
     font-size: 18px;
+    border: 1px solid #FF136F;
+}
+.btn:hover{
+    border: 1px solid #FF136F;
+    background-color: white;
+    color: #FF136F;
 }
 .cat1,.cat2, .cat3{    
     margin: 10px;
@@ -35,4 +41,8 @@
 }
 .cat3{
     background-image: linear-gradient(to right, blue, lightblue);
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
 }
